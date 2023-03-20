@@ -4,6 +4,7 @@ import random
 x = random.randint(1,10)
 #print(x)
 
+
 y = int(input("Guess a number 1-10: "))
 
 if x - y == 0: 
